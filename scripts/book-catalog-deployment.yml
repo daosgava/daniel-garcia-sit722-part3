@@ -21,7 +21,7 @@ spec:
             - containerPort: 8000
           env:
             - name: DATABASE_URL
-              value: "postgresql://deakin_library_1012_user:UHqXTTFcOSE1T5YNF7KhQolwPl3vZBFW@dpg-cre5vrogph6c73eo3shg-a.oregon-postgres.render.com/deakin_library_1012"
+              value: "***REMOVED***"
 ---
 apiVersion: v1
 kind: Service
